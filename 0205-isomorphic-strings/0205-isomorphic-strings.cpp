@@ -9,8 +9,6 @@ public:
         unordered_map<char, char> mp2;
 
         for (int i = 0; i < s.length(); i++) {
-
-            // Check mapping from s -> t
             if (mp1.count(s[i])) {
                 if (mp1[s[i]] != t[i])
                     return false;
@@ -18,8 +16,6 @@ public:
             else {
                 mp1[s[i]] = t[i];
             }
-
-            // Check mapping from t -> s
             if (mp2.count(t[i])) {
                 if (mp2[t[i]] != s[i])
                     return false;
