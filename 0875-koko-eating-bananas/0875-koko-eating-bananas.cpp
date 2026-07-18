@@ -1,25 +1,32 @@
-class Solution {
+#include<bits/stdc++.h>
+using namespace std;
+class Solution{
 public:
-    int hoursNeeded(vector<int>& piles, int k) {
-        int hours = 0;
-        for (int pile : piles)
-            hours += (pile + k - 1) / k;   
-        return hours;
-    }
-
-    int minEatingSpeed(vector<int>& piles, int h) {
-        int low = 1;
-        int high = *max_element(piles.begin(), piles.end());
-
-        while (low < high) {
-            int mid = low + (high - low) / 2;
-
-            if (hoursNeeded(piles, mid) <= h)
-                high = mid;      
-            else
-                low = mid + 1;   
+    long long caltotalhr(vector<int>& piles,int speed){
+        long long totalhr=0;
+        for(auto x:piles){
+            totalhr+=ceil((double)x/speed);
         }
+        return totalhr;
+    }
+    int minEatingSpeed(vector<int>& piles, int h){
+        int maxval=*max_element(piles.begin(),piles.end());
+        int low=1,high=maxval;
+       
+        while(low<=high){
+            int mid=low+(high-low)/2;
+            long long totalhr=caltotalhr(piles,mid);
+            if (totalhr<=h){
+              
+                high=mid-1;
+            }
+            else{
+                low=mid+1;
+            }
 
+        }
         return low;
     }
+
 };
+
