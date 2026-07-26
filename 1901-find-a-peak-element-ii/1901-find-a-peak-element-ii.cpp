@@ -3,7 +3,7 @@ public:
 int maxElement(vector<vector<int>>& mat, int col) {
 int n = mat.size();
 int maxRow = 0;
-    for (int row = 1; row < n; row++) {
+    for (int row = 0; row < n; row++) {
         if (mat[row][col] > mat[maxRow][col]) {
             maxRow = row;
         }
