@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Karthikkk07/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Karthikkk07/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Karthikkk07/Leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Karthikkk07/Leetcode/tree/master/0204-count-primes) |
 | [0282-expression-add-operators](https://github.com/Karthikkk07/Leetcode/tree/master/0282-expression-add-operators) |
 | [0509-fibonacci-number](https://github.com/Karthikkk07/Leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Karthikkk07/Leetcode/tree/master/0877-stone-game) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Karthikkk07/Leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Karthikkk07/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Karthikkk07/Leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Karthikkk07/Leetcode/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/Karthikkk07/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Karthikkk07/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Karthikkk07/Leetcode/tree/master/0229-majority-element-ii) |
@@ -374,4 +376,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Karthikkk07/Leetcode/tree/master/0037-sudoku-solver) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Karthikkk07/Leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Karthikkk07/Leetcode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Karthikkk07/Leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Karthikkk07/Leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Karthikkk07/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
