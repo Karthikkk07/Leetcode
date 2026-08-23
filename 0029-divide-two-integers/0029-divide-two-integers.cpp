@@ -29,7 +29,6 @@ public:
             long long temp = d;
             long long multiple = 1;
 
-            // Find largest d * 2^k that fits in n
             while (n >= (temp << 1)) {
                 temp <<= 1;
                 multiple <<= 1;
