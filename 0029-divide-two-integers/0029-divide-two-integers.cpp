@@ -31,7 +31,7 @@ public:
 
             while (n >= (temp << 1)) {
                 temp <<= 1;
-                multiple <<= 1;
+                multiple <<= 1; 
             }
 
             n -= temp;
