@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Karthikkk07/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Karthikkk07/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Karthikkk07/Leetcode/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/Karthikkk07/Leetcode/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/Karthikkk07/Leetcode/tree/master/0282-expression-add-operators) |
 | [0509-fibonacci-number](https://github.com/Karthikkk07/Leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Karthikkk07/Leetcode/tree/master/0877-stone-game) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/Karthikkk07/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/Karthikkk07/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Karthikkk07/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Karthikkk07/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Karthikkk07/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/Karthikkk07/Leetcode/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/Karthikkk07/Leetcode/tree/master/1922-count-good-numbers) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Karthikkk07/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Karthikkk07/Leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Karthikkk07/Leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Karthikkk07/Leetcode/tree/master/0231-power-of-two) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Karthikkk07/Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Binary Indexed Tree
 |  |
