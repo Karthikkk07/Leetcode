@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Karthikkk07/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Karthikkk07/Leetcode/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Karthikkk07/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Karthikkk07/Leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Karthikkk07/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Karthikkk07/Leetcode/tree/master/0118-pascals-triangle) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Karthikkk07/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Karthikkk07/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Karthikkk07/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/Karthikkk07/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Karthikkk07/Leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Karthikkk07/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Karthikkk07/Leetcode/tree/master/0053-maximum-subarray) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Karthikkk07/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Karthikkk07/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Karthikkk07/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/Karthikkk07/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Karthikkk07/Leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Karthikkk07/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Karthikkk07/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -308,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Karthikkk07/Leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Karthikkk07/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/Karthikkk07/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Karthikkk07/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Karthikkk07/Leetcode/tree/master/0232-implement-queue-using-stacks) |
@@ -439,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Karthikkk07/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/Karthikkk07/Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Karthikkk07/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Karthikkk07/Leetcode/tree/master/0503-next-greater-element-ii) |
