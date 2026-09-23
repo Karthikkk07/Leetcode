@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Karthikkk07/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Karthikkk07/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Karthikkk07/Leetcode/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/Karthikkk07/Leetcode/tree/master/0263-ugly-number) |
 | [0282-expression-add-operators](https://github.com/Karthikkk07/Leetcode/tree/master/0282-expression-add-operators) |
 | [0509-fibonacci-number](https://github.com/Karthikkk07/Leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Karthikkk07/Leetcode/tree/master/0877-stone-game) |
