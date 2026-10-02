@@ -10,34 +10,24 @@
  * };
  */
 class Solution {
-private:
-    int findMaxDownwardPath(TreeNode* root) {
+public:
+    int ans = INT_MIN;
+
+    int dfs(TreeNode* root) {
         if (root == nullptr) {
             return 0;
         }
+        int left = max(0, dfs(root->left));
+        int right = max(0, dfs(root->right));
 
-        int leftGain = max(
-            0,
-            findMaxDownwardPath(root->left)
-        );
+        int currentPath = root->val + left + right;
+        ans = max(ans, currentPath);
 
-        int rightGain = max(
-            0,
-            findMaxDownwardPath(root->right)
-        );
-
-        return root->val + max(leftGain, rightGain);
+        return root->val + max(left, right);
     }
-public:
+
     int maxPathSum(TreeNode* root) {
-        if(root==nullptr){
-            return INT_MIN;
-        }
-        int leftContribution=max(0,findMaxDownwardPath(root->left));
-        int rightContribution=max(0,findMaxDownwardPath(root->right));
-        int currentPath=root->val+ leftContribution+rightContribution;
-        int leftBest=maxPathSum(root->left);
-        int rightBest=maxPathSum(root->right);
-        return max({currentPath,leftBest,rightBest});
+        dfs(root);
+        return ans;
     }
 };
