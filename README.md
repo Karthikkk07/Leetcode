@@ -556,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Karthikkk07/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Karthikkk07/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Karthikkk07/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Karthikkk07/Leetcode/tree/master/0547-number-of-provinces) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Karthikkk07/Leetcode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Karthikkk07/Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Karthikkk07/Leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
@@ -644,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Karthikkk07/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/Karthikkk07/Leetcode/tree/master/0547-number-of-provinces) |
 ## Tree
 |  |
 | ------- |
@@ -724,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Karthikkk07/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Karthikkk07/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Karthikkk07/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Karthikkk07/Leetcode/tree/master/0547-number-of-provinces) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Karthikkk07/Leetcode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Karthikkk07/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Tournament Sort
@@ -768,4 +771,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Karthikkk07/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Karthikkk07/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Karthikkk07/Leetcode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
