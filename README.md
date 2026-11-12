@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Karthikkk07/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1901-find-a-peak-element-ii](https://github.com/Karthikkk07/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2104-sum-of-subarray-ranges](https://github.com/Karthikkk07/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Karthikkk07/Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3731-find-missing-elements](https://github.com/Karthikkk07/Leetcode/tree/master/3731-find-missing-elements) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Karthikkk07/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Binary Search
