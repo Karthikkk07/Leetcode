@@ -6,8 +6,6 @@ public:
 
         vector<vector<int>> adj(numCourses);
         vector<int> indegree(numCourses, 0);
-
-        // Build graph and calculate indegree
         for (auto it : prerequisites) {
 
             int u = it[1];
@@ -19,7 +17,6 @@ public:
 
         queue<int> q;
 
-        // Push all nodes with indegree 0
         for (int i = 0; i < numCourses; i++) {
 
             if (indegree[i] == 0) {
@@ -29,7 +26,6 @@ public:
 
         int count = 0;
 
-        // BFS
         while (!q.empty()) {
 
             int node = q.front();
