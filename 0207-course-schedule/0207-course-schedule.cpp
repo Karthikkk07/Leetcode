@@ -1,46 +1,52 @@
 
 class Solution {
 public:
-    bool dfs(int node, vector<vector<int>>& adj, vector<int>& visited, vector<int>& pathVisited) {
-        visited[node] = 1;
-        pathVisited[node] = 1;
-
-        for(auto neighbor : adj[node]) {
-            if(!visited[neighbor]) {
-                if(dfs(neighbor, adj, visited, pathVisited)) {
-                    return true;
-                }
-            }
-            else if(pathVisited[neighbor]) {
-                return true;
-            }
-        }
-        pathVisited[node] = 0;
-        return false;
-    }
-
-    bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
+    bool canFinish(int numCourses,
+                   vector<vector<int>>& prerequisites) {
 
         vector<vector<int>> adj(numCourses);
-        for(auto it : prerequisites) {
-            int course = it[0];
-            int prerequisite = it[1];
-            adj[prerequisite].push_back(course);
+        vector<int> indegree(numCourses, 0);
+
+        // Build graph and calculate indegree
+        for (auto it : prerequisites) {
+
+            int u = it[1];
+            int v = it[0];
+
+            adj[u].push_back(v);
+            indegree[v]++;
         }
 
-        vector<int> visited(numCourses, 0);
-        vector<int> pathVisited(numCourses, 0);
+        queue<int> q;
 
-        for(int i = 0; i < numCourses; i++) {
+        // Push all nodes with indegree 0
+        for (int i = 0; i < numCourses; i++) {
 
-            if(!visited[i]) {
+            if (indegree[i] == 0) {
+                q.push(i);
+            }
+        }
 
-                if(dfs(i, adj, visited, pathVisited)) {
-                    return false;
+        int count = 0;
+
+        // BFS
+        while (!q.empty()) {
+
+            int node = q.front();
+            q.pop();
+
+            count++;
+
+            for (auto it : adj[node]) {
+
+                indegree[it]--;
+
+                if (indegree[it] == 0) {
+                    q.push(it);
                 }
             }
         }
 
-        return true;
+        return count == numCourses;
     }
 };
