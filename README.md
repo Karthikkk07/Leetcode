@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Karthikkk07/Leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Karthikkk07/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/Karthikkk07/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Karthikkk07/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/Karthikkk07/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/Karthikkk07/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Karthikkk07/Leetcode/tree/master/0493-reverse-pairs) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Karthikkk07/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Karthikkk07/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/Karthikkk07/Leetcode/tree/master/0355-design-twitter) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Karthikkk07/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/Karthikkk07/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Karthikkk07/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0460-lfu-cache](https://github.com/Karthikkk07/Leetcode/tree/master/0460-lfu-cache) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Karthikkk07/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Karthikkk07/Leetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Karthikkk07/Leetcode/tree/master/0260-single-number-iii) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Karthikkk07/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Karthikkk07/Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Binary Indexed Tree
 |  |
@@ -475,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Karthikkk07/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/Karthikkk07/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Karthikkk07/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## String Matching
 |  |
 | ------- |
