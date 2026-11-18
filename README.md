@@ -444,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Karthikkk07/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Karthikkk07/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2484-count-palindromic-subsequences](https://github.com/Karthikkk07/Leetcode/tree/master/2484-count-palindromic-subsequences) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Karthikkk07/Leetcode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Stack
 |  |
 | ------- |
