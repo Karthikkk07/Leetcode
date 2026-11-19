@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Karthikkk07/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1901-find-a-peak-element-ii](https://github.com/Karthikkk07/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2104-sum-of-subarray-ranges](https://github.com/Karthikkk07/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Karthikkk07/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Karthikkk07/Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3731-find-missing-elements](https://github.com/Karthikkk07/Leetcode/tree/master/3731-find-missing-elements) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Karthikkk07/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Karthikkk07/Leetcode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Karthikkk07/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1903-largest-odd-number-in-string](https://github.com/Karthikkk07/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Karthikkk07/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Sliding Window
 |  |
 | ------- |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Karthikkk07/Leetcode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/Karthikkk07/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Karthikkk07/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Karthikkk07/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3731-find-missing-elements](https://github.com/Karthikkk07/Leetcode/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
 |  |
