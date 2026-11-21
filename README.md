@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Karthikkk07/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Karthikkk07/Leetcode/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Karthikkk07/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [0931-minimum-falling-path-sum](https://github.com/Karthikkk07/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Karthikkk07/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2484-count-palindromic-subsequences](https://github.com/Karthikkk07/Leetcode/tree/master/2484-count-palindromic-subsequences) |
 ## Recursion
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Karthikkk07/Leetcode/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Karthikkk07/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/Karthikkk07/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [0931-minimum-falling-path-sum](https://github.com/Karthikkk07/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Karthikkk07/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/Karthikkk07/Leetcode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Karthikkk07/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Karthikkk07/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/Karthikkk07/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Karthikkk07/Leetcode/tree/master/0733-flood-fill) |
+| [0931-minimum-falling-path-sum](https://github.com/Karthikkk07/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/Karthikkk07/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Karthikkk07/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1901-find-a-peak-element-ii](https://github.com/Karthikkk07/Leetcode/tree/master/1901-find-a-peak-element-ii) |
